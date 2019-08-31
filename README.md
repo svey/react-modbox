@@ -1,1 +1,1 @@
-# react-obsmod
+# react-scenographic
