@@ -1,1 +1,1 @@
-# react-scenographic
+# scenographic
