@@ -14,7 +14,7 @@ const Container = () => {
   
   return (
     <React.Fragment>
-      <PrimaryButton onClick={toggle}>TOGGLE</PrimaryButton>
+      <button onClick={toggle}>show modal</button>
       <Modal header={header} footer={footer} isShowing={isShowing} toggle={toggle}>
         {content}
       </Modal>
