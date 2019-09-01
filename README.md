@@ -1,4 +1,5 @@
 # react-scenographic
+[npm](https://www.npmjs.com/package/react-scenographic)
 
 A very lightweight react-modal.
 
