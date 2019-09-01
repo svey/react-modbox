@@ -1,7 +1,6 @@
 # react-scenographic
-[npm](https://www.npmjs.com/package/react-scenographic)
+A very lightweight react-modal. [npm](https://www.npmjs.com/package/react-scenographic)
 
-A very lightweight react-modal.
 
 ## To install:
 ```npm install --save react-scenographic```
