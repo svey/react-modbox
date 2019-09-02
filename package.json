@@ -1,6 +1,6 @@
 {
   "name": "react-scenographic",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "a lightweight react modal",
   "main": "build/index.js",
   "scripts": {
@@ -38,5 +38,9 @@
   },
   "jest": {
     "setupTestFrameworkScriptFile": "./config/setupTests.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/svey/react-scenographic"
   }
 }
