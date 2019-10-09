@@ -1,6 +1,6 @@
 {
   "name": "react-scenographic",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "a lightweight react modal",
   "main": "build/index.js",
   "scripts": {
